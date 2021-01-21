@@ -1,0 +1,15 @@
+{
+  "name": "sass_ramarao",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "jquery-3.5.1.min.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "ramarao",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "dependencies": {}
+}

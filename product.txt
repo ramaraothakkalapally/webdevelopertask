@@ -1,0 +1,53 @@
+*List of products*
+
+SKU = Stock keeping unit
+
+Product type = DISC
+Cd/Dvd = type of CD/DVD
+Name = Sony[SY],Panasonic[PS],Moserbaer[MB],Philips[PH]
+Capacity/Size = 600MB,700MB,800MB,900MB
+Recordable/Rewritable = RC,RW
+Price = 4$, 5$, 6$, 7$
+
+List of SKU  <!---unique for each product--->
+DISC-SY-DVD-600-RC-4
+DISC-PS-DVD-700-RC-5
+DISC-MB-DVD-800-RC-6
+DISC-PH-DVD-900-RC-7
+
+
+Product type = BOOK
+Name = HTML,CSS,MYSQL,PHP
+Weight = 2kg,1kg,3kg,2kg
+Book Pages = P40,P50,P60,P70
+Price = 20$, 30$, 40$, 50$
+
+List of SKU  <!---unique for each product-->
+BOOK-HTML-2K-P40-20
+BOOK-CSS-3K-P50-30
+BOOK-MYSQL-1K-P60-40
+BOOK-PHP-2K-P70-50
+
+
+Product type = Furniture [FUR]
+Name = Chair[CH],Table[TB],Sofa[SF],Bed[BD]
+color = Red[RD],Black[BL],Green[GN],White[WH]
+Weight = 5kg,6kg,7kg,8kg
+Height = 24,25,26,27
+width = 45,46,47,48
+Length = 15,16,17,18
+price = 40$, 45$, 50$, 55$
+
+List of SKU  <!---unique for each product--->
+FUR-CH-RD-5K-24-45-15
+FUR-TB-BL-6K-25-46-16
+FUR-SF-GN-7K-26-47-17
+FUR-BD-WH-8K-27-48-18
+
+
+
+
+
+
+
+
